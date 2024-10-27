@@ -1,0 +1,13 @@
+2024-10-27 19:30:31 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-27 19:30:31 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-27 19:34:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-27 19:34:14 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-27 19:34:19 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-27 19:34:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-27 19:34:19 INFO  - Browser 'CHROME' ready...
+2024-10-27 19:34:19 INFO  - Navigate to url - 'https://dev.app.nuport.io/login'
+2024-10-27 19:34:23 INFO  - Closing browser
