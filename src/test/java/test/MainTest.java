@@ -3,7 +3,7 @@ package test;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class MainTest {
+public class MainTest extends BaseTest{
 
     @Test
     public void test(){
