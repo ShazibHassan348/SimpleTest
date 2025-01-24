@@ -65,9 +65,9 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.5.1</version>
                 <configuration>
-                    <forkCount>1C</forkCount> <!-- One fork per available CPU -->
-                    <reuseForks>true</reuseForks>
+                    <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
+
             </plugin>
         </plugins>
 
