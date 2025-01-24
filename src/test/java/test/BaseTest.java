@@ -10,13 +10,11 @@ public class BaseTest {
     Browser browser = AqualityServices.getBrowser();
 
 
-    @BeforeMethod
     public void setup(){
         browser.goTo("https://dev.app.nuport.io/login");
 
     }
 
-    @AfterMethod
     public void teardown(){
         browser.quit();
     }
